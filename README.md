@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Azure Adventures with C#*](https://link.springer.com/book/9798868804236) by Michał Świtalik (Apress, 2025).
+This repository accompanies [*Azure Adventures with C#*](https://link.springer.com/book/9798868804236) by Michał Świtalik (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](979-8-8688-0423-6.jpg)
