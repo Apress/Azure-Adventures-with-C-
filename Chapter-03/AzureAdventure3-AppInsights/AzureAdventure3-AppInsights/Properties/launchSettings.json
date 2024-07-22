@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAdventure3_AppInsights": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7187",
+      "launchBrowser": false
+    }
+  }
+}

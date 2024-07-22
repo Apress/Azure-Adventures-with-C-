@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAdveture-2-DurableFanoutFanin", "AzureAdveture-2-DurableFanoutFanin\AzureAdveture-2-DurableFanoutFanin.csproj", "{EAEEC48F-4DCC-4DFB-9B23-D25C655B3254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAEEC48F-4DCC-4DFB-9B23-D25C655B3254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEEC48F-4DCC-4DFB-9B23-D25C655B3254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEEC48F-4DCC-4DFB-9B23-D25C655B3254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEEC48F-4DCC-4DFB-9B23-D25C655B3254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32E9138D-526D-47BF-8FA8-12951F55BCDE}
+	EndGlobalSection
+EndGlobal

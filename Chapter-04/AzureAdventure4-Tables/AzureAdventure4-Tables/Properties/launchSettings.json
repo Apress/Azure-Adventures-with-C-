@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAdventure4_Tables": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7234",
+      "launchBrowser": false
+    }
+  }
+}

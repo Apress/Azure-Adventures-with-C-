@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAdventure8_EventGrid": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7069",
+      "launchBrowser": false
+    }
+  }
+}

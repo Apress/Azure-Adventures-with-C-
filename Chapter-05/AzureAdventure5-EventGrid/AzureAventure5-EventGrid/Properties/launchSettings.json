@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAventure5_EventGrid": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7270",
+      "launchBrowser": false
+    }
+  }
+}

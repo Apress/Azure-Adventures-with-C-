@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAdventure_2_Routing": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7212",
+      "launchBrowser": false
+    }
+  }
+}

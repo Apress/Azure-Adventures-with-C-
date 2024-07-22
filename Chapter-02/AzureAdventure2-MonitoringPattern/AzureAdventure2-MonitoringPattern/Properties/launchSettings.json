@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAdventure2_MonitoringPattern": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7165",
+      "launchBrowser": false
+    }
+  }
+}

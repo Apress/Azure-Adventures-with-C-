@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAdventure4_Blobs": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7070",
+      "launchBrowser": false
+    }
+  }
+}

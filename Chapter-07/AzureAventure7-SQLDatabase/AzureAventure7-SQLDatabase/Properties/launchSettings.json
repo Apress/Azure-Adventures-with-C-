@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAventure7_SQLDatabase": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7295",
+      "launchBrowser": false
+    }
+  }
+}

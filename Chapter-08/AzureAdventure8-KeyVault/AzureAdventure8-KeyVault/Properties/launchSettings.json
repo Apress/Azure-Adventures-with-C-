@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureAdventure8_KeyVault": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7060",
+      "launchBrowser": false
+    }
+  }
+}

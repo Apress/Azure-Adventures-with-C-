@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureAdventures4-Queues", "AzureAdventures4-Queues\AzureAdventures4-Queues.csproj", "{DFDD668B-1E3B-49A3-AE8E-F6FBAF4C814B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDD668B-1E3B-49A3-AE8E-F6FBAF4C814B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDD668B-1E3B-49A3-AE8E-F6FBAF4C814B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDD668B-1E3B-49A3-AE8E-F6FBAF4C814B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDD668B-1E3B-49A3-AE8E-F6FBAF4C814B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A3242C-8E07-4A0A-8386-917B51846594}
+	EndGlobalSection
+EndGlobal

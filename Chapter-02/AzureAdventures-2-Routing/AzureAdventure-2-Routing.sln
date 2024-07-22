@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAdventure-2-Routing", "AzureAdventure-2-Routing\AzureAdventure-2-Routing.csproj", "{C11253EF-3A13-46BA-85BD-DC029224C03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11253EF-3A13-46BA-85BD-DC029224C03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11253EF-3A13-46BA-85BD-DC029224C03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11253EF-3A13-46BA-85BD-DC029224C03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11253EF-3A13-46BA-85BD-DC029224C03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074FDAA1-B137-4956-85C6-94D328FDC804}
+	EndGlobalSection
+EndGlobal

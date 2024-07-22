@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAdventure8-Storage", "AzureAdventure8-Storage\AzureAdventure8-Storage.csproj", "{130147AC-5FF3-463E-9851-5891EC8DB2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130147AC-5FF3-463E-9851-5891EC8DB2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130147AC-5FF3-463E-9851-5891EC8DB2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130147AC-5FF3-463E-9851-5891EC8DB2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130147AC-5FF3-463E-9851-5891EC8DB2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454FC437-3DB5-4FF6-AAE4-59B64F8E3882}
+	EndGlobalSection
+EndGlobal
